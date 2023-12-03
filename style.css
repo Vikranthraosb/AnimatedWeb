@@ -326,9 +326,13 @@ padding: 3vw;
     text-transform: uppercase;
     border-radius: 30px;
     border: none;
+    color: brown;
     box-shadow: 5px 5px 70px  rgba(0, 160, 0, 0.749);
 }
 .ftext button:hover{
     box-shadow: 5px 5px 20px  rgb(255, 145, 0);
 cursor: pointer;
+color: white;
+
+
 }
